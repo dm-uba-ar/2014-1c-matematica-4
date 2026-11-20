@@ -1,9 +1,4 @@
-# Matemática 4 - Análisis Matemático III — Primer cuatrimestre de 2014
-
-## Equipo docente
-
-- **Clases teóricas:** Daniel Carando, Claudia Lederman
-- **Clases prácticas:** Marcela Fabio, Diego Merzbacher, Analía Silva, Eugenio Borghini
+# Matemática 4 — Primer cuatrimestre de 2014
 
 ## Prácticas
 
